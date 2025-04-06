@@ -25,5 +25,6 @@ class Calculator :
 
 #Initialize the app
 root = Tk()
+calculator=Calculator(root)
 root.mainloop()
 
