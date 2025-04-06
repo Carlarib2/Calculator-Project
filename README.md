@@ -1,4 +1,4 @@
-Calculator Project
+CALCULATOR PROJECT
 
 This is a simple graphical calculator built using Python's Tkinter library. The calculator performs basic arithmetic operations like addition, subtraction, multiplication, division, and percentage, and it also supports parentheses for order of operations.
 
